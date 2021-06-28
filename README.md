@@ -1,6 +1,9 @@
 # Habit-O-Circle
 Habit-o-Circle is intended to help people better manage their lives. You can set goals, manage your personal finances, and break bad habits. Even your friends and you can support each other in breaking bad habits.
+![](https://github.com/Manishfoodtechs/Habit-O-Circle/blob/main/00fc5412-f79e-45a4-8306-8ff40755844f.jpg)
 ![](https://github.com/Manishfoodtechs/Habit-O-Circle/blob/main/e7463907-c13a-41b4-af15-4d2d8c3eacc3.jpg)
+![](https://github.com/Manishfoodtechs/Habit-O-Circle/blob/main/33581950-f6dc-4181-bed3-acaf5b71436c.jpg)
+![](https://github.com/Manishfoodtechs/Habit-O-Circle/blob/main/e87e8655-9537-4edd-a9c4-f65635209b00.jpg)
 
 This is OpenSource Project. Free for personal and commercial use. Developed by Me while drinking coffee.
 
