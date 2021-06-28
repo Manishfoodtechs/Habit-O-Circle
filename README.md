@@ -31,5 +31,5 @@ GET SET GO....
 You Dont need database to add user. on login.php change in array to accommodate your friends.
 
 # Can I improve it?
-- Yes sure welcome!!! Please open a issue or contact me on my email over my profile.
+- Yes sure welcome!!! Please open an issue or contact me on my email over my profile.
 - I really want to remove all dataabels with some new innovative UI. You can Help.
