@@ -1,0 +1,102 @@
+.ui-widget-header {
+    border: 1px solid #eb7700;
+    background: white;
+    color: #eb7700;
+    font-weight: bold;
+	font-size:20px;
+	
+}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+    color: black;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+    border: 1px solid #bb6262;
+    background: #eb7700;
+    font-weight: normal;
+    color: #f5eeee;
+}
+
+table.dataTable.display tbody tr.odd>.sorting_1, table.dataTable.order-column.stripe tbody tr.odd>.sorting_1 {
+    background-color: white;
+}
+table.dataTable.dtr-inline.collapsed>tbody>tr[role="row"]>td.dtr-control:before, table.dataTable.dtr-inline.collapsed>tbody>tr[role="row"]>th.dtr-control:before {
+    top: 50%;
+    left: 5px;
+    height: 14px;
+    width: 14px;
+    margin-top: -9px;
+    display: block;
+    position: absolute;
+    color: white;
+    border: 2px solid white;
+    border-radius: 14px;
+    box-shadow: 0 0 3px #444;
+    box-sizing: content-box;
+    text-align: center;
+    text-indent: 0 !important;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 14px;
+    content: '+';
+    background-color: #eb7700;
+}
+table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {
+    border-top: 1px solid #eb7700;
+}
+table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {
+    border-top: 1px solid black;
+	background-color: white;
+}
+element {
+}
+table.dataTable.row-border tbody tr:first-child th, table.dataTable.row-border tbody tr:first-child td, table.dataTable.display tbody tr:first-child th, table.dataTable.display tbody tr:first-child td {
+    border-top: none;
+}
+table.dataTable.row-border tbody tr:first-child th, table.dataTable.row-border tbody tr:first-child td, table.dataTable.display tbody tr:first-child th, table.dataTable.display tbody tr:first-child td {
+    border-top: none;
+}
+table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {
+    border-top: 1px solid black;
+    background-color: white;
+}
+table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {
+    border-top: 1px solid #eb7700;
+}
+table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {
+    border-top: 1px solid #eb7700;
+}
+table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td {
+    border-top: 1px solid #ddd;
+}
+table.dataTable.nowrap th, table.dataTable.nowrap td {
+    white-space: nowrap;
+}
+table.dataTable.nowrap th, table.dataTable.nowrap td {
+    white-space: nowrap;
+}
+table.dataTable tbody th, table.dataTable tbody td {
+    padding: 8px 10px;
+}
+table.dataTable tbody th, table.dataTable tbody td {
+    padding: 8px 10px;
+}
+table.dataTable, table.dataTable th, table.dataTable td {
+    box-sizing: content-box;
+}
+table.dataTable, table.dataTable th, table.dataTable td {
+    box-sizing: content-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+element {
+    color: rgb(66, 64, 61);
+}
+
+.button {
+     border-style: solid;
+  border-width : 1px 1px 1px 1px;
+  text-decoration : none;
+  padding : 4px;
+  border-color : #eb7700;
+}
