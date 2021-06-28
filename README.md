@@ -1,7 +1,7 @@
 # Habit-O-Circle
 Habit-o-Circle is intended to help people better manage their lives. You can set goals, manage your personal finances, and break bad habits. Even your friends and you can support each other in breaking bad habits.
 
-This is OpenSource Project. Free for personal and commercial use. Developed by Manish while drinking coffee.
+This is OpenSource Project. Free for personal and commercial use. Developed by Me while drinking coffee.
 
 # Features:
 - Beautiful Login Screen (Dynamic, new on every login)
